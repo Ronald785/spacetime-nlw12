@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="HomePage" src="public/homepage_nlw12.png" width="70%" =>
+  <img alt="HomePage" src="images/homepage_nlw12.png" width="70%" =>
 </p>
 
 ## 👨🏾‍💻 Instalar  
